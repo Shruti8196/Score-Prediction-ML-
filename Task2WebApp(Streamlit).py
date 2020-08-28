@@ -37,3 +37,4 @@ elif df[0][0]>=10:
 else:
     st.subheader('Predicted Score-')  
     st.write(round(predicted_y))
+# Run in anaconda Prompt: streamlit run Task2WebApp(Streamlit).py
