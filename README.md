@@ -4,7 +4,7 @@ When using the contents of this repository make sure all the downloaded files ar
 i.e. in the same folder from where you will run the commands in the prompt.
 
 Libraries to be installed-
-Open the Anaconda Prompt and install if not available-
+Open the Anaconda Prompt and install the following libraries:
 1. pip install numpy
 2. pip install pandas
 3. pip install matplotlib
